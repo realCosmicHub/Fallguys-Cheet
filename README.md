@@ -31,8 +31,10 @@ Discord  : Cosmic#0032
 Server   : https://discord.gg/BSrHH3W58W
 ```
 
-## <a id="license"></a>🤝 〢 Sources ##
-* [KdMapper](https://github.com/TheCruZ/kdmapper)
-* [KnPCore](https://github.com/da772/KnP)
-* [ZLib](https://zlib.net/)
-* [ImGui](https://github.com/ocornut/imgui)
+## Sources
+```
+* [KdMapper] | https://github.com/TheCruZ/kdmapper
+* [KnPCore] | https://github.com/da772/KnP
+* [ZLib] | https://zlib.net/
+* [ImGui] | https://github.com/ocornut/imgui
+```
